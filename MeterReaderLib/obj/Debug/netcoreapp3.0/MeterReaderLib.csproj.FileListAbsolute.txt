@@ -1,0 +1,13 @@
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.deps.json
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.dll
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\bin\Debug\netcoreapp3.0\MeterReaderLib.pdb
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.csprojAssemblyReference.cache
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfoInputs.cache
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.AssemblyInfo.cs
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.RazorTargetAssemblyInfo.cache
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\staticwebassets\MeterReaderLib.StaticWebAssets.Manifest.cache
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\staticwebassets\MeterReaderLib.StaticWebAssets.xml
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.dll
+C:\Users\Dev-9\Documents\Visual Studio 2019\Projects\Learning\Provider-GRPC\MeterReader\MeterReaderLib\obj\Debug\netcoreapp3.0\MeterReaderLib.pdb
